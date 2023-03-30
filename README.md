@@ -5,11 +5,11 @@
 
 ## Project Architecture Description
 
-Most script files are stored at inner salary_calculator folder.__
-This solution was built having in mind Clean Architecture principles.__
-Functional programming guidelines were also taken into account to structure functions.__
+Most script files are stored at inner salary_calculator folder.\
+This solution was built having in mind Clean Architecture principles.\
+Functional programming guidelines were also taken into account to structure functions.\
 
-Flake8 tool was run onto the current project as to follow PEP8 guidelines.__
+Flake8 tool was run onto the current project as to follow PEP8 guidelines.\
 
 Key script files are the following:
 
