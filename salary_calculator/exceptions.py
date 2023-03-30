@@ -1,0 +1,2 @@
+class StartGreaterThanEndError(Exception):
+    pass
