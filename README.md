@@ -5,17 +5,20 @@
 
 ## Project Architecture Description
 
-Most script files are stored at inner salary_calculator folder.
-This solution was built having in mind Clean Architecture principles.
-Functional programming guidelines were also taken into account to structure functions.
+Most script files are stored at inner salary_calculator folder.__
+This solution was built having in mind Clean Architecture principles.__
+Functional programming guidelines were also taken into account to structure functions.__
+
+Flake8 tool was run onto the current project as to follow PEP8 guidelines.__
 
 Key script files are the following:
 
-Filename      | Purpose
-------------- | -------------
-Content Cell  | Content Cell
-Content Cell  | Content Cell
-
+Filename       | Contains
+-------------- | -------------
+classes.py     | Business Logic/Data classes and related operations on them
+exceptions.py  | Custom exceptions
+serializers.py | Classes to convert formated strings into data classes
+utils.py       | Utility miscelaneous functions
 
 ## How to run main file with test input file?
 
