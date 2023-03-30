@@ -8,9 +8,7 @@
 Most script files are stored at inner salary_calculator folder.\
 This solution was built having in mind Clean Architecture principles.\
 Functional programming guidelines were also taken into account to structure functions.\
-
 Flake8 tool was run onto the current project as to follow PEP8 guidelines.\
-
 Key script files are the following:
 
 Filename       | Contains
